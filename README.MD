@@ -1,9 +1,9 @@
 
-# Jobify
+# Job Trackr
 
 #### Track Your Job Search
 
-Project in Action - [Jobify](https://www.jobify.live/)
+Project in Action - [JobTrakr](https://job-trackr.onrender.com/landing)
 
 
 #### Run The App Locally
